@@ -1,6 +1,10 @@
 {
 	"author": "Frach0_",
+	"description": "Este proyecto será grandioso!",
+	"keywords": ["Frach0_","freecodecamp","Proyecto"],
 	"name": "fcc-learn-npm-package-json",
+	"license": "MIT",
+	"version": "0.1.1",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
